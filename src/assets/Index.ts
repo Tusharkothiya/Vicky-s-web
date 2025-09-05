@@ -5,6 +5,7 @@ import BagIcon from './BagIcon.svg'
 import TestimonialImage from './Testimonial.svg'
 import WhyChooseUserImage from './WhyChooseUser.svg'
 import FAQSImage from './faqs.png'
+import Background from './Background.png'
 
 export {
     HeroImage,
@@ -13,5 +14,6 @@ export {
     BagIcon,
     TestimonialImage,
     WhyChooseUserImage,
-    FAQSImage
+    FAQSImage,
+    Background
 }
