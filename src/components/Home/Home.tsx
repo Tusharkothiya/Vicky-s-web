@@ -1,3 +1,4 @@
+import FAQS from "./FAQS";
 import HeroSection from "./HeroSection";
 import PopularServices from "./PopularServices";
 import Testimonial from "./Testimonial";
@@ -12,6 +13,7 @@ const Home = () => {
       <Testimonial />
       <ValueProcess />
       <WhyChooseUs />
+      <FAQS />
     </div>
   );
 };

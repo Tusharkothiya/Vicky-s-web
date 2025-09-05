@@ -25,7 +25,7 @@ const HeroSection = () => {
           </div>
 
           {/* Right Image */}
-          <div className="order-1 lg:order-2">
+          <div className="order-1 lg:order-2 flex items-center justify-end">
             <img src={HeroImage} alt="heroImage" />
           </div>
         </div>

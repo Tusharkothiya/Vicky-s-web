@@ -79,7 +79,7 @@ const PopularServices = () => {
 
           {/* Service 4 - Image Card */}
           <div className="bg-[#ECE8E0] shadow-sm overflow-hidden hover:shadow-md transition-shadow duration-300">
-            <div className=" bg-gradient-to-br from-gray-200 to-gray-300 relative overflow-hidden">
+            <div className=" bg-gradient-to-br from-gray-200 to-gray-300 relative overflow-hidden h-full">
               <img
                 src={PopularServiceImage}
                 alt="service-img"

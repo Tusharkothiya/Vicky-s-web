@@ -31,7 +31,7 @@ const Header = () => {
           <div className="flex-shrink-0">
             <Link
               to="/"
-              className="text-[30px] sm:text-[50px] font-[400] text-[#072E33] hover:text-blue-600 transition-colors duration-200"
+              className="text-[30px] sm:text-[50px] font-[400] text-[#072E33] transition-colors duration-200"
             >
               Logo
             </Link>
