@@ -1,6 +1,7 @@
 import HeroSection from "./HeroSection";
 import PopularServices from "./PopularServices";
 import Testimonial from "./Testimonial";
+import ValueProcess from "./ValueProcess";
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <HeroSection />
       <PopularServices />
       <Testimonial />
+      <ValueProcess />
     </div>
   );
 };
