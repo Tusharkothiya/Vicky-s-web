@@ -7,6 +7,7 @@ import WhyChooseUserImage from './WhyChooseUser.svg'
 import FAQSImage from './faqs.png'
 import Background from './Background.png'
 import WhoWeAreImage from './WhoWeAre.svg'
+import UserImage from './User.svg'
 
 export {
     HeroImage,
@@ -18,4 +19,5 @@ export {
     FAQSImage,
     Background,
     WhoWeAreImage,
+    UserImage,
 }
