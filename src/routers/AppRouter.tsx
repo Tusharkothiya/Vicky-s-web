@@ -4,6 +4,7 @@ import Aboutus from "../pages/About/Aboutus";
 import MainLayout from "../layout/MainLayout";
 import Services from "../pages/Services/Services";
 import Pricing from "../pages/Pricing/Pricing";
+import Contact from "../pages/Contact/Contact";
 
 const AppRouter = () => {
   return (
@@ -14,6 +15,7 @@ const AppRouter = () => {
           <Route path="/about" element={<Aboutus />} />
           <Route path="/services" element={<Services />} />
           <Route path="/pricing" element={<Pricing />} />
+          <Route path="/contact" element={<Contact />} />
         </Route>
       </Routes>
     </BrowserRouter>
