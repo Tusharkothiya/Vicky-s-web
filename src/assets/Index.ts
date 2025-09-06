@@ -6,6 +6,7 @@ import TestimonialImage from './Testimonial.svg'
 import WhyChooseUserImage from './WhyChooseUser.svg'
 import FAQSImage from './faqs.png'
 import Background from './Background.png'
+import WhoWeAreImage from './WhoWeAre.svg'
 
 export {
     HeroImage,
@@ -15,5 +16,6 @@ export {
     TestimonialImage,
     WhyChooseUserImage,
     FAQSImage,
-    Background
+    Background,
+    WhoWeAreImage,
 }
