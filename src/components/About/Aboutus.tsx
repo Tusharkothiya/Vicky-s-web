@@ -1,4 +1,5 @@
 import Hero from "./Hero";
+import Leadership from "./Leadership";
 import WhatWeOffer from "./WhatWeOffer";
 import WhoWeAre from "./WhoWeAre";
 import WhyDifferent from "./WhyDifferent";
@@ -10,6 +11,7 @@ const Aboutus = () => {
       <WhoWeAre />
       <WhatWeOffer />
       <WhyDifferent />
+      <Leadership />
     </div>
   );
 };
